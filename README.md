@@ -1,1 +1,1 @@
-# HTML-CSS-JS-Online-Book-Store-Program-
+Download all files to your local folder. Place all image(.jpg, .jpeg,.png) files in "images" folder in the same location where html program files are placed. Open file "PracticeHTMLTBSHomePage.html" (Execute or Run )in any web browser like Chrome or Microsoft Edge. The program for online book store "The Book Shop" Home Page will be opened with CSS and JavaScript(Shopping Cart functionality) applied to it.
