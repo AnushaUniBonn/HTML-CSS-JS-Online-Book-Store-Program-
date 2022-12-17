@@ -1,0 +1,37 @@
+﻿.main-store-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 .25em;
+    display: flex;
+}
+.store-sec-color {
+    background-color: palegoldenrod;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 .5em;
+}
+.shop-item {
+    margin: 30px;
+}
+.shop-item-title {
+    display:block;
+    width:100%;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5em;
+    color:#777;
+    margin-bottom:15px;
+}
+.shop-item-image{
+    width:200px;
+    height:200px;
+
+}
+.shop-item-container{
+    flex-grow :1;
+    text-align:end;
+}
+.store-btn {
+    font-size: 1em;
+    font-weight: bolder;
+}
